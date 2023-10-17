@@ -1,0 +1,41 @@
+body{
+    background-color: #8AAAE5;
+}
+.head{
+    text-align: center;
+    background-color: #8AAAE5;
+    color:white;
+    text-shadow: #8AAAE5;
+
+}
+.outer{
+    
+    display:flex;
+    justify-content: space-between;
+}
+.data{
+    background-color: #8AAAE5;
+ 
+}
+.heading{
+    text-align: center;
+    color:white;
+    margin-bottom: 1em;
+}
+.imgContain{
+    display:flex;
+    justify-content: space-between;
+    text-wrap: wrap;
+    
+}
+img{
+    width:120px;
+    height:120px;
+    margin-top:0;
+    margin-bottom:0;
+    align-self: flex-start;
+}
+.dataContain{
+    padding:0;
+    margin-left:20px;
+}
